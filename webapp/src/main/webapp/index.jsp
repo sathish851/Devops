@@ -4,5 +4,4 @@
 <h2> sentinels</h2>
 <h2> udhay</h2>
 <h2> TC ARTS</h2>
-<h2> TC ARTS</h2>
 <h2> TENZ</h2>
